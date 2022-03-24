@@ -1,12 +1,11 @@
 # Project 01 - Speed Dating
 Hello, welcome on project #1 named *Speed Dating*
 
-# Challenge Description
-
+## Challenge Description
 
 We will start a new data visualization and exploration project. Your goal will be to try to understand *love*! It's a very complicated subject so we've simplified it. Your goal is going to be to understand what happens during a speed dating and especially to understand what will influence the obtaining of a **second date**.
 
-This is a Kaggle competition on which you can f❤️ind more details here :
+This is a Kaggle competition on which you can find more details here :
 
 [Speed Dating Dataset](https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc)
 
@@ -22,7 +21,7 @@ For today, you can start exploring the dataset with pandas to extract some stati
 
 ## Objective
 
-the objective is to explore what could influence **LOVE** 💗
+The objective is to explore what could influence **LOVE** 💗
 
 ## Dataset
 
